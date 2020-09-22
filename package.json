@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "owner": "GDSuperMoon",
+    }
+  ],
+  "main": [
+    {
+      "botTrump": false,
+      "Kevin": true
+    }
+  ]
+}
