@@ -1,0 +1,5 @@
+## Welcome to SuperWebsite!
+Im so proud you checked it.
+I hope you invite your friends to it.
+## About us
+We are sample website that wants to grow, Please invite your friends to check it and it help us with upgrading it and making it better. Please make sure to send the website to your friends for they check, You can do it anywhere, In discord, In any social media. Please enjoy it! Also make sure to read our terms of use and then use it everytime! And remember, We are small website. And we trying to grow, So please invite your friends, Make sure to they check that website. And make sure to read our terms of use. Understand? Dont read license if you dont understand what is it, It just added for decoration. If you dont understand Terms of use, Translate it. And it maked by GDSuperMoon, Enjoy. Please, I told you to your friends to check the website. Dude this is just a joke
