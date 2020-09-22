@@ -9,5 +9,20 @@
       "botTrump": false,
       "Kevin": true
     }
+  ],
+  "cookies": [
+    {
+      "main": true,
+      "html": 5,
+      "css": "4/3",
+      "javascript": "ecmascript"
+    }
+  ],
+  "styles": [
+    {
+      "styles": true,
+      "javascript": true,
+      "html"; true
+    }
   ]
 }
